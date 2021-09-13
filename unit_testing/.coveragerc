@@ -3,4 +3,4 @@ include = ./ClassAO.py
          
 
 [html]
-directory = ./cover_report
+directory = /home/adminspin/Documents/Output_Folder
